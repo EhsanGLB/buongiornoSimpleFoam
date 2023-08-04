@@ -15,6 +15,8 @@ $$ D_b = {{k_B T} \over {3 \pi \mu_f \ d_{np}}} $$
 
 $$ D_T = 0.26 {{\kappa_f} \over {2 \kappa_f + \kappa_np}} {\mu_f \over \rho_f} \phi $$
 
+$$ \rho = \rho_np \phi + \rho_f (1 - \phi) $$
+
 Which $U$, $p$, $T$, and $\phi$ are velocity vector, pressure, temperature, and nanoparticle concentration, respectively. And $\rho$, $\nu$, and $\alpha$ are density, kinematic viscosity, and thermal diffusivity, respectively.
 
 
