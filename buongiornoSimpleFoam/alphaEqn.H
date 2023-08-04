@@ -1,16 +1,16 @@
 {
-    volScalarField DbEff
+    volScalarField DBEff
     (
-        "DbEff",
-        Db + turbulence->nut()/Sct
+        "DBEff",
+        DB + turbulence->nut()/Sct
     );
 
-    DbEff.correctBoundaryConditions();
+    DBEff.correctBoundaryConditions();
 
     fvScalarMatrix alphaEqn
     (
         fvm::div(phi, alpha)
-      - fvm::laplacian(DbEff, alpha)
+      - fvm::laplacian(DBEff, alpha)
       - fvc::laplacian(DT/T, T)
     );
 
