@@ -11,7 +11,7 @@ $$ {U . \nabla T} = \alpha {\nabla}^2 T $$
 
 $$ {U . \nabla \phi} = D_b {\nabla}^2 \phi + {D_T \over T} {\nabla}^2 T $$
 
-Which $U$, $p$, and $T$, are velocity vector, pressure, and temperature, respectively. And $\rho$, $\nu$, and $\alpha$ are density, kinematic viscosity, and thermal diffusivity, respectively.
+Which $U$, $p$, $T$, and $\phi$ are velocity vector, pressure, temperature, and nanoparticle concentration, respectively. And $\rho$, $\nu$, and $\alpha$ are density, kinematic viscosity, and thermal diffusivity, respectively.
 
 
 ## Installation
