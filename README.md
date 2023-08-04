@@ -21,7 +21,7 @@ $$ C_{p,nf} = {{ \rho_{np} C_{p,np} \phi + \rho_f C_{p,f} (1 - \phi)} \over \rho
 
 $$ {\kappa_{nf} \over \kappa_f} = { {2 \kappa_f + \kappa_{np} + 2 \phi ( \kappa_{np} - \kappa_f)} \over {2 \kappa_f + \kappa_{np}- \phi ( \kappa_{np}- \kappa_f)} } $$
 
-$$ {\mu_{nf} \over \mu_f} = {1 \over (1 - \phi)^2.5} $$
+$$ {\mu_{nf} \over \mu_f} = {1 \over (1 - \phi)^{2.5}} $$
 
 Which $U$, $p$, $T$, and $\phi$ are velocity vector, pressure, temperature, and nanoparticle concentration, respectively. And $\rho$, $C_p$, $\kappa$, $\mu$, $\nu$, and $\alpha$ are density, specific heat capacity, thermal conductivity, dynamic viscosity, kinematic viscosity, and thermal diffusivity, respectively. Also, subscription $f$, $np$, and $nf$ depict fluid, nanoparticle, and nanofluid, respectively. Moreover, $D_b$, $D_T$m and $d_{np}$ are Brownian diffusion, thermophoresis diffusion, and nanoparticle diameter, respectively
 
