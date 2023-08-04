@@ -5,13 +5,13 @@ This is a solver for steady forced convection heat transfer of nanofluid using t
 ## Mathematical Relationships
  $$ \nabla . U = 0 $$
 
-$$ {(U . \nabla) U} = - {1 \over\rho} \nabla p + \nu \nabla . {\nabla U} $$
+$$ {(U . \nabla) U} = - {1 \over\rho} \nabla p + \nu_{nf} \nabla . {\nabla U} $$
 
-$$ {U . \nabla T} = \alpha {\nabla}^2 T $$
+$$ {U . \nabla T} = \alpha_{nf} {\nabla}^2 T $$
 
 $$ {U . \nabla \phi} = D_b {\nabla}^2 \phi + {D_T \over T} {\nabla}^2 T $$
 
-$$ D_b = {{k_B T} \over {3 \pi \mu d_{np}}} $$
+$$ D_b = {{k_B T} \over {3 \pi \mu_f d_{np}}} $$
 
 $$ D_T = 0.26 {{\kappa_f} \over {2 \kappa_f + \kappa_np}} {\mu_f \over \rho_f} \phi $$
 
