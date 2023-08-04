@@ -17,7 +17,7 @@ $$ D_T = 0.26 {{\kappa_f} \over {2 \kappa_f + \kappa_np}} {\mu_f \over \rho_f} \
 
 $$ \rho_{nf} = \rho_{np} \phi + \rho_f (1 - \phi) $$
 
-$$ C_{p,nf} = {{ \rho_{np} Cp_{np} \phi + \rho_f Cp_f (1 - \phi)} \over \rho_{nf}} $$
+$$ C_{p,nf} = {{ \rho_{np} C_{p,np} \phi + \rho_f C_{p,f} (1 - \phi)} \over \rho_{nf}} $$
 
 
 Which $U$, $p$, $T$, and $\phi$ are velocity vector, pressure, temperature, and nanoparticle concentration, respectively. And $\rho$, $\nu$, and $\alpha$ are density, kinematic viscosity, and thermal diffusivity, respectively.
