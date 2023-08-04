@@ -13,6 +13,8 @@ $$ {U . \nabla \phi} = D_b {\nabla}^2 \phi + {D_T \over T} {\nabla}^2 T $$
 
 $$ D_b = {{k_B T} \over {3 \pi \mu d_{np}}} $$
 
+$$ D_T = 0.26 {{kappa_f} \over {2kappa_f+kappa_np}} {mu_f \over rho_f} \phi $$
+
 Which $U$, $p$, $T$, and $\phi$ are velocity vector, pressure, temperature, and nanoparticle concentration, respectively. And $\rho$, $\nu$, and $\alpha$ are density, kinematic viscosity, and thermal diffusivity, respectively.
 
 
