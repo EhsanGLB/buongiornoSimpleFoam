@@ -1,5 +1,5 @@
 # buongiornoSimpleFoam
-This is a solver for steady forced convection heat transfer of nanofluid using the Buongiorno model to consider nanoparticle distribution based on foam-extend-4.1.
+This is a solver for steady forced convection heat transfer of nanofluid using the Buongiorno model to consider nanoparticle distribution written based on foam-extend-4.1.
 
 
 ## Mathematical Relationships
