@@ -51,7 +51,7 @@ laplacianSchemes
     laplacian(1,p) Gauss linear corrected;
     laplacian(kappaEff,T) Gauss linear corrected;
     laplacian((DT|T),T) Gauss linear corrected;
-    laplacian(DbEff,alpha) Gauss linear corrected;
+    laplacian(DBEff,alpha) Gauss linear corrected;
 }
 
 interpolationSchemes
