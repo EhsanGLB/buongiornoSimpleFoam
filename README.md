@@ -52,7 +52,7 @@ buongiornoSimpleFoam
 
 
 ## Activation
-Add "libincompressibleTransportModelsNanoFluid.so" to case/system/controlDict
+Add "libBrinkmanViscosityModel.so" to case/system/controlDict
 
 
 ## References
